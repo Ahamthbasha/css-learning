@@ -1,0 +1,32 @@
+h1{
+    background-color: blue !important;
+}
+
+/* 3.class */
+
+.first_class{
+    background-color: aquamarine;
+}
+
+/* 1.id selector */
+
+#first_id{
+    background-color: blanchedalmond;
+}
+
+/* 2.attribute */
+
+h1[draggable="true"]{
+    background-color: coral;
+}
+
+/* 4.descendant */
+body h1{
+    background-color: black;
+}
+
+/* 4.child */
+
+body > h1{
+    background-color: yellow;
+}

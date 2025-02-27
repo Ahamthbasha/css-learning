@@ -5,4 +5,17 @@ h1{
 
     /* font-style: italic; */
     /* font-variant: small-caps; */
+    font-stretch: expanded;
 }
+
+p{
+    /* line-height: 20px;  *//*It is space between the lines*/
+    /* letter-spacing: 20px;  *//*It is space between the letters*/
+    /* word-spacing: 10px; */ /*It is space between the words*/
+
+    /* text-transform: uppercase; */
+    font-family: 'Arial', sans-serif;
+    font-stretch: expanded;
+}
+
+/* Font stretch in CSS allows you to stretch or condense the text horizontally. It's done using the font-stretch property. This property works only with certain font families that support different stretches (like "normal", "ultra-condensed", "extra-condensed", etc.). */
