@@ -1,0 +1,50 @@
+/* h1{
+    color:red;
+    background-color: aliceblue;
+}
+
+ul{
+    color:blue;
+}
+
+.first{
+    background-color: bisque;
+}
+
+.second{
+    background-color: blue;
+}
+
+#third{
+    background-color: brown;
+} 
+
+*{
+    background-color: aqua;
+    color: green;
+}
+
+body{
+    background-color: brown;
+} 
+    
+h1,h2,h3{
+    background-color: bisque;
+} 
+    
+h2[draggable="true"]{
+    background-color: brown;
+} */
+
+/* section p{
+    background-color: aqua;
+} */
+
+section > p{
+    background-color: aqua;
+}
+
+#container.highlight {
+    background-color: yellow;
+    color: red;
+}
