@@ -1,0 +1,38 @@
+h2{
+    background-color: aqua;
+    width:150px;
+    height: 150px;
+    /* border-width: 10px;
+    border-style: solid;
+    border-color:beige;
+    border-radius: 10px; */
+
+    /* shortcut */
+
+    border:10px solid blue;
+
+    /* margin: 20px 50px 15px 0px; */
+
+    box-sizing: border-box;
+
+}
+
+ul{
+    background-color: palevioletred;
+}
+
+p{
+    border-width:10px;
+    border-style: groove;
+    background-color: blue;
+    padding: 5px;
+}
+
+h4{
+    background-color: blueviolet;
+    /* border-left: 10px solid blue; */
+    border-width:10px 20px 30px; 
+    border-color: green;
+    border-style:dashed;
+    padding:10px 20px;
+}
