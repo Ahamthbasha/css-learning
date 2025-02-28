@@ -1,0 +1,68 @@
+body{
+    font-family:'Verdana', sans-serif; 
+    color:#333;
+    background-color: #f0f0f0;
+}
+
+header{
+    background-color:#4CAF50 ;
+    color:white;
+}
+
+h1{
+    font-size: 3em;
+    font-weight: bold;
+}
+
+h2{
+    font-size: 1.5em;
+    color:#FFD700;
+}
+
+article{
+    background-color: white;
+}
+
+.css-intro h3{
+        font-size: 2em;
+        color: #007BFF;
+}
+h4{
+    color: #ff69b4;
+    font-size: 1.5em;
+}
+
+.js-fundamentals h3{
+    font-size: 2em;
+    color: #FF4500;
+
+}
+.js-fundamentals h4{
+    color: #ff69b4;
+    font-size: 1.5em;
+}
+
+
+table {
+    width: 100%;
+    background-color: #f9f9f9;
+}
+
+thead{
+    background-color: #007BFF;
+    color:white;
+}
+
+.responsive-web h3{
+    font-size: 2em;
+    color: #8A2BE2;
+}
+
+footer{
+    color:#333;
+    background-color: #ccc;
+}
+
+footer p{
+    font-weight: bold;
+}
