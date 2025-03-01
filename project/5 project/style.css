@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+}
+
+.first,.fourth{
+    height:40vh;
+    width:15vw;
+    background-color: rgb(40, 40, 112);
+    margin-left: 30vw;
+}
+
+.second,.third{
+    height:25vh;
+    width:100vw;
+    background-color: rgb(40, 40, 112);
+}
