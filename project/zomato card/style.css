@@ -1,0 +1,54 @@
+.card{
+    height:230px;
+    width:300px;
+    
+    border-radius: 2%;
+    border: 2px solid blue;
+}
+
+.inside-content{
+    padding-top: 10px;
+    margin-left:25px;
+    font-family: Okra, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #4f4f4f;
+}
+
+.sameStyle{
+    margin-top: 10px;
+}
+
+.img{
+    width:250px;
+    height: 100px;
+    border-radius: 2%;
+}
+
+.img-continer img{
+    width:250px;
+    height: 100px;
+    border-radius: 2%;
+}
+
+.title{
+    margin-top: 0.8rem;
+    color:rgb(28,28,28)
+}
+
+.link a{
+    text-decoration: none;
+    color: #4f4f4f;
+}
+
+.address{
+    margin-top: 0px;
+    line-height: 1.6rem;
+
+}
+
+.rating-content {
+    border: 2px solid green; 
+    padding: 5px;  
+    margin-right: 10px;
+    font-size: 18px;
+}
